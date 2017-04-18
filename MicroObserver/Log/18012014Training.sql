@@ -1,0 +1,2 @@
+insert into training(Phaseno,Groupno,Trgdate1,Trgdate2,Trgdate3,Venue_code,Hall_rsl,Trgtime,Trgplace,Hallcapacity,Tag,Attendance_lock) values('3','1','22/1/2014',NULL,NULL,'2','1','0','Mahendra Narayan Choudhury Balika M College','10',NULL,'N');
+insert into training(Phaseno,Groupno,Trgdate1,Trgdate2,Trgdate3,Venue_code,Hall_rsl,Trgtime,Trgplace,Hallcapacity,Tag,Attendance_lock) values('3','2','12/3/2014',NULL,NULL,'4','1','0','Chamata Higher Secondary School','10',NULL,'N');
